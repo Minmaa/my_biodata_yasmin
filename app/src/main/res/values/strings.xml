@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">my_biodata_yasmin</string>
+    <string name="BIODATA">BIODATA</string>
+    <string name="name">YASMIN MAHARANI</string>
+    <string name="nim">STE202202827</string>
+    <string name="prodi">SISTEM INFORMASI</string>
+    <string name="universitas">STMIK WIDYA UTAMA</string>
+    <string name="maharani">maharani</string>
+</resources>
